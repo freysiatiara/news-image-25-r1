@@ -4,9 +4,9 @@ Entry for the make.fun bounty:
 
 https://make.fun/bounty/news-image-20261125
 
-https://make.fun/badge/news-image-20261125.svg
-https://make.fun/badge/news-image-20261125/freysiatiara/news-image-25-r1/rank.svg
-https://make.fun/badge/news-image-20261125/freysiatiara/news-image-25-r1/reward.svg
+[![make.fun bounty](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/freysiatiara/news-image-25-r1/rank.svg)](https://make.fun/bounty/news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/freysiatiara/news-image-25-r1/reward.svg)](https://make.fun/bounty/news-image-20261125)
 
 ## What this is
 
